@@ -10,7 +10,7 @@ Welcome to tracersoft, this content will guide you through our development proce
 * We work mostly with Ruby on Rails apps, on Heroku infrastructure.
 * Write nice code is mandatory, we follow this convention: http://github.com/tracersoft/guides
 * You will work with a small team, usually 3 devs. So, you have to be good on communication and acceptable with feedbacks!
-* Our methodology is based in eXtreme Programming and Scrum: http://www.desenvolvimentoagil.com.br/xp/
+* Our methodology is based on eXtreme Programming and Scrum: http://www.desenvolvimentoagil.com.br/xp/
 * Red, Green, Refactor: you must know or learn **TDD**.
 * We have free fridays. Clients usually test features, which are developed over the week, on fridays. But "free" does not mean like a "lazy day", it is a day in which we can learn new things, develop side projects or contribute to open source projects.
 * Our **daily meeting** is done between 10am and 12am (always GMT -2).
