@@ -7,8 +7,8 @@ Welcome to tracersoft, this content will guide you through our development proce
 #####Things you need to know before starting:
 
 * We are a flat organization with very high standards
-* We work mostly with Ruby on Rails apps, on Heroku infrastructure.
-* Write nice code is mandatory, we follow this convention: http://github.com/tracersoft/guides
+* We work mostly with **Ruby on Rails** apps, on **Heroku** infrastructure.
+* Write **nice code is mandatory**, we follow this convention: http://github.com/tracersoft/guides
 * You will work with a small team, usually 3 devs. So, you have to be good on communication and acceptable with feedbacks!
 * Our methodology is based on eXtreme Programming and Scrum: http://www.desenvolvimentoagil.com.br/xp/
 * Red, Green, Refactor: you must know or learn **TDD**.
