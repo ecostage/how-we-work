@@ -17,7 +17,7 @@ Welcome to tracersoft, this content will guide you through our development proce
 * Our day starts between 8am and 10am and ends upto between 5pm and 7pm. Remote people must be online between 10am and 5pm.
 
 ####Project planning
-The planning starts with a design sprint, when the team will receive what the clients wants and tranform into a backlog and stories, making descisions about the project. The design team will make mockups and a layout for approval.
+The planning starts with a **design sprint**, when the team will receive what the clients wants and tranform into a backlog and stories, making descisions about the project. The design team will make mockups and a layout for approval.
 
 More about design print: http://robots.thoughtbot.com/the-product-design-sprint
 
