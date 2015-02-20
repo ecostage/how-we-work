@@ -13,8 +13,8 @@ Welcome to tracersoft, this content will guide you through our development proce
 * Our methodology is based in eXtreme Programming and Scrum: http://www.desenvolvimentoagil.com.br/xp/
 * Red, Green, Refactor: you must know or learn **TDD**.
 * We have free fridays. Clients usually test features, which are developed over the week, on fridays. But "free" does not mean like a "lazy day", it is a day in which we can learn new things, develop side projects or contribute to open source projects.
-* Our **daily meeting** is done between 10 and 12am
-* Our day starts between 8am and 10am and ends upto between 5pm and 7pm. Remote people must be online between 10am and 5pm
+* Our **daily meeting** is done between 10am and 12am (always GMT -2).
+* Our day starts between 8am and 10am and ends upto between 5pm and 7pm. Remote people must be online between 10am and 5pm.
 
 ####Project planning
 The planning starts with a design sprint, when the team will receive what the clients wants and tranform into a backlog and stories, making descisions about the project. The design team will make mockups and a layout for approval.
