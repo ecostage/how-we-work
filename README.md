@@ -17,16 +17,16 @@ Welcome to tracersoft, this content will guide you through our development proce
 * Our day starts between 8am and 10am and ends upto between 5pm and 7pm. Remote people must be online between 10am and 5pm.
 
 ####Project planning
-The planning starts with a **design sprint**, when the team will receive what the clients wants and tranform into a backlog and stories, making descisions about the project. The design team will make mockups and a layout for approval.
+The project planning starts with a **design sprint** on which the team receives the requirements of a project, brake it in small stories and make descisions about the project. And at this moment, the design team creates mockups and a layout for approval.
 
-More about design print: http://robots.thoughtbot.com/the-product-design-sprint
+More about design sprint: http://robots.thoughtbot.com/the-product-design-sprint
 
 Next week start development following the week guide.
 At the end of the project we do a **project retrospective meeting**
 
 ####Our week
 
-On mondays we start with a **sprint planning meeting** that may last upto the end of the day. At the end of the meeting the team begin working in the designateds stories. We will work developing the project in monday, tuesday, wednesday and thursday.
-Thursday is the deadline to merge pull requests.
+On mondays we start with a **sprint planning meeting** that may last upto the end of the day. At the end of the meeting the team begins working in the designated stories. We develop the project on monday, tuesday, wednesday and thursday.
+Thursdays are the deadline to merge pull requests and deployment.
 
-On fridays, the client will test the features developed over the week and the team will be at a **sprint retrospective meeting**. The feedback of the client will be discussed in the next sprint plannining and fixes may be inserted in the next sprint.
+On fridays, the client usually tests the features developed over the week while the team have a **sprint retrospective meeting**. The feedback of the client is discussed on the following sprint plannining and fixes may be planned on the next sprint.
