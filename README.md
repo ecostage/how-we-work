@@ -14,7 +14,7 @@ Welcome to tracersoft, this content will guide you through our development proce
 * Red, Green, Refactor: you must know or learn **TDD**.
 * We have free fridays. Clients usually test features, which are developed over the week, on fridays. But "free" does not mean like a "lazy day", it is a day in which we can learn new things, develop side projects or contribute to open source projects.
 * Our **daily meeting** is done between 10am and 12am (always GMT -2).
-* Our day starts between 8am and 10am and ends between 5pm and 7pm. Remote people must be online between 10am and 5pm.
+* Our day starts between 8am and 11am and ends between 5pm and 8pm. Remote people must be online between 10am and 5pm.
 
 ####Project planning
 The project planning starts with a **design sprint** on which the team receives the requirements of a project, brake it in small stories and make decisions about the project. And at this moment, the design team creates mockups and a layout for approval. Usually the design team will be one step ahead of the development.
